@@ -91,7 +91,7 @@ a:hover {#ff0}
 
 .headright {
     float:right;
-    width: 60%;
+    width: 50%;
 }
 .headleft {
     float:left;
@@ -202,12 +202,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', end
 
 .topnav a {text-shadow: #000 0 0 5px;float: left;text-align: center;padding: 3px 25px;text-decoration: none;color: #e4e4e4;font-weight: bold;font-size: i;}
 
-.panduan {
-display:none;
-}
-
 .topnav a:hover, .dropdown:hover .dropbtn {
-    color:rgba(195,135,32,1);
+    color:#e4e4e4;
 }
 
 .topnav .icon {
